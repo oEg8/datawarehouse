@@ -1,6 +1,0 @@
-# include all imports for library datawarehouse
-from datawarehouse.fmp import FMP
-# ....
-# ....
-fmp = FMP
-df = fmp.recent_stock_info()
